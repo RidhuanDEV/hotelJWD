@@ -36,12 +36,11 @@
                 <h6 class="text-uppercase fw-bold">Social Media</h6>
                 <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #7c4dff; height: 2px;" />
                 <p>
-                <a href="https://www.youtube.com/@SatoruFoundation"class="text-white"
-                >Youtube</a>
+                    <a href="mailto:satorufoundation@gmail.com" class="text-white">Email Hotel Ridhuan Rangga Kusuma</a>
                 </p>
+
                 <p>
-                <a href="https://wa.me/+6282113472156" class="text-white
-                ">WhatsApp</a>
+                    <a href="https://wa.me/+6282113472156" class="text-white">WhatsApp Hotel Ridhuan Rangga Kusuma</a>
                 </p>
             
             </div>
